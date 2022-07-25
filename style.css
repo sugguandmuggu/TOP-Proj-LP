@@ -87,6 +87,8 @@ a{
     border: none;
     font-size: 18px;
     color: #E5E7EB;
+    padding: 4px 16px;
+    border-radius: 5px;
 }
 
 
@@ -121,6 +123,7 @@ a{
 .roundsqr{
     border: 2px solid #3882F6;
     height: 146px;
+    border-radius: 15px;
 }
 
 .rando{
@@ -169,6 +172,7 @@ a{
     align-items: center;
     background-color: #3882F6;
     padding: 32px 64px;
+    border-radius: 15px;
 
 }
 
@@ -181,6 +185,7 @@ a{
     font-size: 18px;
     padding-top: 4px;
     padding-bottom: 4px;
+    border-radius: 5px;
 }
 
 .ac-text{
